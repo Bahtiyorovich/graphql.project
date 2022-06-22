@@ -1,0 +1,2 @@
+# graphqlproject
+GraphQL da loyiha
